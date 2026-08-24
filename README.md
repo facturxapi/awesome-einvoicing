@@ -70,11 +70,11 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 ## GitHub Actions
 
-Marketplace this run: [`factur-x`](https://github.com/marketplace?type=actions&query=factur-x) → **« 1 result »** (card [Validate E-Invoice (EN 16931)](https://github.com/marketplace/actions/validate-e-invoice-en-16931) = `attestwire/validate-einvoice-action`). [`zugferd`](https://github.com/marketplace?type=actions&query=zugferd) → **« 0 results »**. No Marketplace badge on this list.
+Marketplace this run (2026-08-24): [`factur-x`](https://github.com/marketplace?type=actions&query=factur-x) lists at least two EN16931 Action cards: [Validate E-Invoice (EN 16931)](https://github.com/marketplace/actions/validate-e-invoice-en-16931) = `attestwire/validate-einvoice-action`, and [Validate EN16931 e-invoice](https://github.com/marketplace/actions/validate-en16931-e-invoice) = `facturxapi/validate-einvoice`. [`zugferd`](https://github.com/marketplace?type=actions&query=zugferd) → **« 0 results »** on 2026-08-18 check.
 
 - [attestwire/validate-einvoice-action](https://github.com/attestwire/validate-einvoice-action) — created 2026-08-16 ; API description « Validate EN 16931 e-invoices (UBL, CII, Factur-X PDF) in CI. Runs locally by default — no API key, no network. » MIT. **`stargazers_count` = 0**. Tag `v1.0.0`. Marketplace card above. Claims: theirs, not restated.
 
-- [facturxapi/validate-einvoice](https://github.com/facturxapi/validate-einvoice) — API description « GitHub Action and CLI: official ConnectingEurope EN16931 1.3.16 XSLT (CII/UBL) on XML invoices. » File license EUPL 1.2 (API `NOASSERTION`). **`stargazers_count` = 0**. Tag `v1` → `8457406078fee1807c6e6604852b1764fe537c62`. Last push 2026-08-18. **Not a Marketplace card.**
+- [facturxapi/validate-einvoice](https://github.com/facturxapi/validate-einvoice) — API description « GitHub Action and CLI: official ConnectingEurope EN16931 1.3.16 XSLT (CII/UBL) on XML invoices. » File license EUPL 1.2 (API `NOASSERTION`). **`stargazers_count` = 2** (2026-08-24). Tag `v1` and `v1.1.0` → `b364f7c3175c357eec30ad074b8e57844d976d3d` (Windows-safe tree). Marketplace card: https://github.com/marketplace/actions/validate-en16931-e-invoice.
 
 - [hernaninverso/validate-einvoice-action](https://github.com/hernaninverso/validate-einvoice-action) — composite Action ; `action.yml` name `Validate EU e-Invoice` ; `format` includes `factur-x` ; default `api-base` `https://api.eleata.io`. Apache-2.0. **`stargazers_count` = 0**. Last push 2026-05-25. Claims: theirs, not restated.
 
@@ -98,7 +98,7 @@ Only publicly licensed, still-living example sets. FNFE ZIP (email gate) and FeR
 
 - [ConnectingEurope — EN 16931 v1.3.16 examples](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.16) — release « EN16931 Validation artefacts v1.3.16 » ; body: examples in folder `"examples"` ; EUPL 1.2 ; assets `en16931-cii-1.3.16.zip`, `en16931-ubl-1.3.16.zip`.
 
-- [facturxapi/en16931-oracles](https://github.com/facturxapi/en16931-oracles) — API description « Reproducible EN16931 validation oracles — official CEN 1.3.16 fixtures, SVRL receipts, mutants, and documented blind spots of the official Schematron ». API `NOASSERTION`. **`stargazers_count` = 0**. Last push 2026-08-17.
+- [facturxapi/en16931-oracles](https://github.com/facturxapi/en16931-oracles) — API description « Reproducible EN16931 validation oracles — official CEN 1.3.16 fixtures, SVRL receipts, mutants, and documented blind spots of the official Schematron ». API `NOASSERTION`. **`stargazers_count` = 2** (2026-08-24). Weekly upstream-drift green after adding `vendor/upstream.json`.
 
 - [itplr-kosit/xrechnung-testsuite](https://github.com/itplr-kosit/xrechnung-testsuite) — GitHub mirror of KoSIT ([GitLab](https://projekte.kosit.org/xrechnung/xrechnung-testsuite) HTTP 200). Apache-2.0. Last push 2026-08-14. Release `v2026-01-31`: asset `xrechnung-3.0.2-testsuite-2026-01-31.zip`.
 
