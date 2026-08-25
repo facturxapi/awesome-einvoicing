@@ -1,0 +1,22 @@
+name: Public hygiene
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  process-language:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hermetic guard tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Compile guard script
+        run: python3 -m py_compile scripts/check_public_process_leaks.py
+      - name: Reject internal process references
+        run: python3 scripts/check_public_process_leaks.py
+      - name: Diff whitespace check
+        run: git diff --check

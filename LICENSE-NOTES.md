@@ -7,8 +7,7 @@
 Doctrine : on ne cite que des textes **effectivement lus** ce run. On n’invente
 pas un « oui on peut ».
 
-Licence du *texte* de cette liste : **CC0 1.0** (`LICENSE`) — GO de principe
-founder, consigné par l’auditeur sur ol_17569.
+Licence du *texte* de cette liste : **CC0 1.0** (`LICENSE`).
 
 ---
 
@@ -63,4 +62,4 @@ Vérifiés HTTP 200 / API ce run ; last push 2026.
 
 - Republication des exemples FNFE / FeRD Infopaket : **À-TRANCHER** (gate ou disclaimer).
 - SPDX d’akretion/factur-x, causa-prima-ai/awesome-invoicing, facturxapi/* : fichiers ou NOTICE lus, API `NOASSERTION`.
-- Publication GitHub du *dépôt* : `facturxapi/awesome-einvoicing` (CC0), après GO conditionnel auditeur 18/08.
+- Publication GitHub du *dépôt* : `facturxapi/awesome-einvoicing` (CC0), sous réserve de validation de publication.
