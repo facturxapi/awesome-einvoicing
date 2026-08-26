@@ -1,12 +1,18 @@
 # Awesome e-Invoicing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Sourced list of **e-invoicing** specs, docs, validators, libraries and corpora (EN 16931, Factur-X, ZUGFeRD, XRechnung, BR-FR).
+Sourced map / curated list of **e-invoicing** specs, docs, validators, libraries and corpora — not a ranking (EN 16931, Factur-X, ZUGFeRD, XRechnung, BR-FR).
 
 > **Inclusion ≠ endorsement.** A line here does not mean a tool is compliant, official, better, or recommended.
 >
 > Each line is **factual** (what the page or GitHub API said this run). Prices only if they appear in the HTML ; otherwise `[non-mesure]`. Words like “valide / conforme / répare” are the site’s, not ours.
 
 HTTP / licenses / liveness: [`CHECKS.md`](CHECKS.md). Redistribute vs pointer: [`LICENSE-NOTES.md`](LICENSE-NOTES.md). Frame: [`NOTICE.md`](NOTICE.md). How to add a line: [`CONTRIBUTING.md`](CONTRIBUTING.md). List text: [CC0 1.0](LICENSE).
+
+## Which FacturX repo should I use?
+
+- [validate-einvoice](https://github.com/facturxapi/validate-einvoice) — GitHub Action that runs the official ConnectingEurope EN16931 1.3.16 XSLT artefacts (CII/UBL).
+- [en16931-oracles](https://github.com/facturxapi/en16931-oracles) — Replayable fixtures, receipts and mutants for that same 1.3.16 pin.
+- [awesome-einvoicing](https://github.com/facturxapi/awesome-einvoicing) — Sourced map of specs, validators, libraries and corpora. Inclusion is not a ranking.
 
 ---
 
