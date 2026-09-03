@@ -46,6 +46,8 @@ HTTP / licenses / liveness: [`CHECKS.md`](CHECKS.md). Redistribute vs pointer: [
 
 - [DGFiP — reform FAQ](https://www.impots.gouv.fr/professionnel/questions/dans-le-cadre-de-la-reforme-de-la-facturation-electronique-comment-devrais) — « À compter du 1er septembre 2026 , toutes les entreprises assujetties à la TVA […] devront être en capacité de recevoir des factures électroniques ». « septembre 2027 » **absent** from the HTML this run.
 
+- [European Commission — Registry of supporting artefacts to implement EN16931](https://ec.europa.eu/digital-building-blocks/sites/spaces/DIGITAL/pages/467108974/Registry+of+supporting+artefacts+to+implement+EN16931) — official DIGITAL registry: EN 16931 validation artefacts (UBL 2.1 + CII 16b, latest **1.3.16**, published 16/04/26), EAS and VATEX code lists, CIUS/Extensions registry, and the bi-annual release schedule.
+
 - [FeRD — Download ZUGFeRD](https://www.ferd-net.de/download-zugferd) — « Infopaket für das E-Rechnungsformat ZUGFeRD 2.5.2 vom 04.08.2026 » ; Direktdownload 27.94 MB (DE) / 28.98 MB (EN). **ZIP not downloaded**.
 
 - [FeRD — Was ist ZUGFeRD?](https://www.ferd-net.de/standards/zugferd) — « ZUGFeRD ist ein kostenfrei verfügbares, branchenübergreifendes Datenformat […] » ; cited base: Norm EN16931.
@@ -96,7 +98,7 @@ Marketplace this run (2026-08-24): [`factur-x`](https://github.com/marketplace?t
 
 - [stephanstapel/ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) — C# ZUGFeRD read / write. Apache-2.0 (`LICENSE.txt`). **`stargazers_count` = 392**. Last push 2026-08-05 ; release `18.0.0` (2026-03-25).
 
-- [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / validator / tool. Apache-2.0. **`stargazers_count` = 451**. Last push 2026-08-17 ; release `core-2.25.0` (2026-08-05).
+- [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / CLI to read, write, convert and validate Factur-X/ZUGFeRD and XRechnung. Apache-2.0. **`stargazers_count` = 451**. Last push 2026-08-17 ; release `core-2.25.0` (2026-08-05).
 
 ## Corpora
 
