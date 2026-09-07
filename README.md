@@ -70,6 +70,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [Get FacturX](https://www.getfacturx.com/) — H1 « La boîte à outils Factur-X qui complète votre Plateforme Agréée » ; CTA « 4 utilisations gratuites par jour · Aucune carte requise ». [`/validate`](https://www.getfacturx.com/validate) title « Validateur Factur-X en ligne gratuit ». Euro tariff `[non-mesure]`. Home HEAD = 405, GET = 200.
 
+- [InvoiceIn](https://invoicein.peculiar.systems/) — tagline « Every e-invoice you receive, as one JSON. » ; accepts « XRechnung, ZUGFeRD, Factur-X, Peppol BIS 3, FatturaPA, KSeF » ; [API reference](https://invoicein-api.peculiar.systems/docs). Pricing on page (« Beta pricing »): Free `100 invoices` (30 days) ; Starter `29 eur / 250 invoices` ; Growth `99 eur / 1,000` ; Scale `399 eur / 5,000`. Claims: theirs, not restated.
+
 - [ITB — Commission eInvoice Validator](https://www.itb.ec.europa.eu/invoice/upload) — H1 « eInvoice Validator » ; types `cii` / `ubl` / `credit` labelled « release 1.3.16 ». REST `POST https://www.itb.ec.europa.eu/vitb/rest/invoice/api/validate` (HEAD 405). Not a GitHub repo.
 
 - [Mustangproject — CLI validate](https://www.mustangproject.org/commandline/) — home: « Mustangproject 2.25.0 was released on 05.08.2026 » ; « Support for ZUGFeRD 2.5.2 (=Factur-X 1.09.2, #1216) ». CLI page: Validate + `Mustang-CLI-2.25.0.jar`. CLI **not executed** this run (`[non-mesure]` runtime).
