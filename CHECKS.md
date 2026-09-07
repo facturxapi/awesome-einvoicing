@@ -109,6 +109,7 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://raw.githubusercontent.com/stephanstapel/ZUGFeRD-csharp/master/LICENSE | 404 | vrai chemin `LICENSE.txt` |
 | https://www.getfacturx.com/ | HEAD 405 / GET 200 | exception de méthode ; GET utilisé pour la citation |
 | https://www.itb.ec.europa.eu/vitb/rest/invoice/api/validate | HEAD 405 | POST-only |
+| https://invoicein.peculiar.systems/ | 200 | 8 sept. 2026 | service : non publiée ; exemples MIT (github.com/peculiar-systems/invoicein-examples) | oui — API `/v1/formats` en ligne ; page « Beta » 2026 | « Every e-invoice you receive, as one JSON. » |
 
 ---
 
