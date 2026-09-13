@@ -41,6 +41,8 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://facturevalide.fr/valider-facture-electronique.html | 200 | 18 août 2026 | n/a | oui | « 10 vérifications/jour » ; « 31 points de contrôle » |
 | https://facturevalide.fr/tarifs | **404** | 18 août 2026 | — | page morte | inchangé |
 | https://facturevalide.fr/tarifs.html | **404** | 18 août 2026 | — | page morte | inchangé |
+| https://normapi.de/en/validator | 200 | 12 septembre 2026 | n/a (page) | oui — stamp « Ruleset v2026-08-31 » | title « XRechnung & ZUGFeRD validator — free online check » ; H1 « Validate an e-invoice » ; « against the official KoSIT rule set » |
+| https://normapi.de/en/pricing | 200 | 12 septembre 2026 | n/a (page) | oui | Validator `€0` « Free forever » ; Starter `€49 per month` ; Business `€149 per month` |
 | https://thelawin.dev/ | 200 | 18 août 2026 | n/a | oui | H1 « The E-Invoicing Engine » ; libellés Factur-X 1.0.8 / ZUGFeRD 2.4 |
 | https://thelawin.dev/pricing | 200 | 18 août 2026 | n/a | oui | Sandbox €0 ; Starter €9.50/month ; Pro €24.50/month ; « Beta pricing: 50% off » |
 | https://thelawin.dev/fr/factur-x-validator | 200 | 18 août 2026 | n/a | oui | H1 « Factur-X Validator » |
