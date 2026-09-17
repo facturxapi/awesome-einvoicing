@@ -92,6 +92,8 @@ Marketplace this run (2026-08-24): [`factur-x`](https://github.com/marketplace?t
 
 - [akretion/factur-x](https://github.com/akretion/factur-x) — Python Factur-X / Order-X / UBL. API `license.spdx_id` = **`NOASSERTION`** ; `LICENSE.txt` = BSD 3-clause. **`stargazers_count` = 303**. Last push / tag `6.7` (2026-08-08).
 
+- [attestwire/en16931](https://github.com/attestwire/en16931) — TypeScript EN 16931 validator and generator ; description API « EN 16931 e-invoice validator and generator for TypeScript. XRechnung, Peppol BIS, Factur-X, UBL and CII. Zero deps. » MIT. **`stargazers_count` = 1**. Last push 2026-08-18 ; tag `v0.7.3`.
+
 - [horstoeko/zugferd](https://github.com/horstoeko/zugferd) — PHP ZUGFeRD / XRechnung / Factur-X. MIT. **`stargazers_count` = 432**. Last push 2026-08-04 ; release `v1.0.124` (2026-07-10).
 
 - [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) — « low-level python implementation of the ZUGFeRD XML format ». Apache-2.0. **`stargazers_count` = 176**. Last push 2026-06-02. **No GitHub release**.

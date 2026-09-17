@@ -67,6 +67,7 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://github.com/invoicenavigator/validate-invoice | 200 | 18 août 2026 | MIT | oui — push 2026-03-02 ; stars 0 | **pas de release** (16/08) |
 | https://github.com/attestwire/validate-einvoice-action | 200 | 18 août 2026 | MIT | oui — créé 2026-08-16 ; stars 0 | description API « Runs locally by default » |
 | https://github.com/marketplace/actions/validate-e-invoice-en-16931 | 200 | 18 août 2026 | MIT (repo) | oui | fiche Marketplace attestwire |
+| https://github.com/attestwire/en16931 | 200 | 17 sept. 2026 | MIT (API `license.spdx_id`) | oui — push 2026-08-18 ; tag `v0.7.3` ; stars 1 ; not archived | description API « EN 16931 e-invoice validator and generator for TypeScript. XRechnung, Peppol BIS, Factur-X, UBL and CII. Zero deps. » |
 | https://github.com/marketplace?type=actions&query=factur-x | 200 | 18 août 2026 | — | — | **« 1 result »** |
 | https://github.com/marketplace?type=actions&query=zugferd | 200 | 18 août 2026 | — | — | **« 0 results »** / « No results » |
 | https://github.com/awesome-einvoicing/awesome-einvoicing | **404** | 18 août 2026 | — | **inexistant** | pas une awesome GitHub |
