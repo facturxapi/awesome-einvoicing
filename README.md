@@ -74,6 +74,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [Mustangproject — CLI validate](https://www.mustangproject.org/commandline/) — home: « Mustangproject 2.25.0 was released on 05.08.2026 » ; « Support for ZUGFeRD 2.5.2 (=Factur-X 1.09.2, #1216) ». CLI page: Validate + `Mustang-CLI-2.25.0.jar`. CLI **not executed** this run (`[non-mesure]` runtime).
 
+- [NormAPI](https://normapi.de/validator) — H1 « XRechnung und ZUGFeRD prüfen » (validates against the official German KoSIT rule set). [Pricing](https://normapi.de/preise): Validator `0 €` (free), Starter `49 €` /month, Business `149 €` /month.
+
 - [thelawin.dev](https://thelawin.dev/) — H1 « The E-Invoicing Engine » ; site labels « Factur-X 1.0.8 », « ZUGFeRD 2.4 » (FNFE/FeRD pack this day = 1.09.2 / 2.5.2). [Pricing](https://thelawin.dev/pricing): Sandbox `€0`, Starter `€9.50 /month`, Pro `€24.50 /month`, « Beta pricing: 50% off all paid plans ».
 
 ## GitHub Actions

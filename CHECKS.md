@@ -54,6 +54,8 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://www.mustangproject.org/ | 200 | 18 août 2026 | Apache-2.0 (dépôt) | oui — 05.08.2026 | « Mustangproject 2.25.0 was released on 05.08.2026 » ; support ZUGFeRD 2.5.2 |
 | https://www.mustangproject.org/commandline/ | 200 | 18 août 2026 | — | oui | section Validate ; `Mustang-CLI-2.25.0.jar` |
 | https://www.mustangproject.org/use/ | 200 | 18 août 2026 | — | oui | HEAD 200 |
+| https://normapi.de/validator | 200 | 22 septembre 2026 | n/a | oui | H1 « XRechnung und ZUGFeRD prüfen » |
+| https://normapi.de/preise | 200 | 22 septembre 2026 | n/a | oui | Validator `0 €` ; Starter `49 €`/mois ; Business `149 €`/mois |
 | https://github.com/horstoeko/zugferd | 200 | 18 août 2026 | MIT | oui — push 2026-08-04 ; stars 432 | description « ZUGFeRD/XRechnung/Factur-X Library » |
 | https://api.github.com/repos/horstoeko/zugferd | 200 | 18 août 2026 | MIT | oui | idem |
 | https://github.com/ZUGFeRD/mustangproject | 200 | 18 août 2026 | Apache-2.0 | oui — push **2026-08-17** ; stars **451** (450 au 16/08) | description API Factur-X/ZUGFeRD |
