@@ -44,6 +44,7 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://thelawin.dev/ | 200 | 18 août 2026 | n/a | oui | H1 « The E-Invoicing Engine » ; libellés Factur-X 1.0.8 / ZUGFeRD 2.4 |
 | https://thelawin.dev/pricing | 200 | 18 août 2026 | n/a | oui | Sandbox €0 ; Starter €9.50/month ; Pro €24.50/month ; « Beta pricing: 50% off » |
 | https://thelawin.dev/fr/factur-x-validator | 200 | 18 août 2026 | n/a | oui | H1 « Factur-X Validator » |
+| https://xrechnung.jestr.ai/ | 200 | 24 sept. 2026 | n/a | oui — config v2026-08-31 | H1 « XRechnung prüfen » ; « 0 € in der Beta » ; `/api/rules` → `{"config": "v2026-08-31"}` |
 | https://www.b2brouter.net/fr/factur-x-validator/ | 200 | 18 août 2026 | n/a | oui | title « […] conforme et gratuit » (leur title) |
 | https://www.b2brouter.net/fr/tarifs/ | 200 | 18 août 2026 | n/a | oui | Basic 0 eur / à vie ; Professional 110 eur / an + TVA ; Business 300 eur / an + TVA |
 | https://formatx.fr/ | 200 | 18 août 2026 | n/a | oui | schema.org `"price":"0"` EUR |
