@@ -76,6 +76,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [thelawin.dev](https://thelawin.dev/) — H1 « The E-Invoicing Engine » ; site labels « Factur-X 1.0.8 », « ZUGFeRD 2.4 » (FNFE/FeRD pack this day = 1.09.2 / 2.5.2). [Pricing](https://thelawin.dev/pricing): Sandbox `€0`, Starter `€9.50 /month`, Pro `€24.50 /month`, « Beta pricing: 50% off all paid plans ».
 
+- [XRechnung-Check](https://xrechnung.jestr.ai/) — H1 « XRechnung prüfen » ; banner shows the active KoSIT XRechnung config (`v2026-08-31` this run) ; REST `POST /api/validate` (CII/UBL XML, `X-Api-Key`) ; public adoption log [`/log`](https://xrechnung.jestr.ai/log) + Atom feed. Page: « 0 € in der Beta ». Submitted by the operator.
+
 ## GitHub Actions
 
 Marketplace this run (2026-08-24): [`factur-x`](https://github.com/marketplace?type=actions&query=factur-x) lists at least two EN16931 Action cards: [Validate E-Invoice (EN 16931)](https://github.com/marketplace/actions/validate-e-invoice-en-16931) = `attestwire/validate-einvoice-action`, and [Validate EN16931 e-invoice](https://github.com/marketplace/actions/validate-en16931-e-invoice) = `facturxapi/validate-einvoice`. [`zugferd`](https://github.com/marketplace?type=actions&query=zugferd) → **« 0 results »** on 2026-08-18 check.
