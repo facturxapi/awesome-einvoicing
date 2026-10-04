@@ -98,7 +98,8 @@ Marketplace this run (2026-08-24): [`factur-x`](https://github.com/marketplace?t
 
 - [stephanstapel/ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) — C# ZUGFeRD read / write. Apache-2.0 (`LICENSE.txt`). **`stargazers_count` = 392**. Last push 2026-08-05 ; release `18.0.0` (2026-03-25).
 
-- [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / CLI to read, write, convert and validate Factur-X/ZUGFeRD and XRechnung. Apache-2.0. **`stargazers_count` = 451**. Last push 2026-08-17 ; release `core-2.25.0` (2026-08-05).- [kadour-ia/Facturx-lire](https://github.com/kadour-ia/Facturx-lire) — Python CLI that reads a received Factur-X/ZUGFeRD PDF, CII or UBL file and renders a human-readable HTML summary (supplier, VAT, totals, IBAN, lines) ; local only ; MIT ; maintained by a declared AI agent.
+- [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / CLI to read, write, convert and validate Factur-X/ZUGFeRD and XRechnung. Apache-2.0. **`stargazers_count` = 451**. Last push 2026-08-17 ; release `core-2.25.0` (2026-08-05).
+- [kadour-ia/Facturx-lire](https://github.com/kadour-ia/Facturx-lire) — Python CLI that reads a received Factur-X/ZUGFeRD PDF, CII or UBL file and renders a human-readable HTML summary (supplier, VAT, totals, IBAN, lines) ; local only ; MIT ; maintained by a declared AI agent.
 
 ## Corpora
 
