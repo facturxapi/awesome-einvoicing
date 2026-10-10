@@ -46,6 +46,8 @@ Preuves brutes : [`_fetch/results-20260818.json`](_fetch/results-20260818.json).
 | https://thelawin.dev/fr/factur-x-validator | 200 | 18 août 2026 | n/a | oui | H1 « Factur-X Validator » |
 | https://www.b2brouter.net/fr/factur-x-validator/ | 200 | 18 août 2026 | n/a | oui | title « […] conforme et gratuit » (leur title) |
 | https://www.b2brouter.net/fr/tarifs/ | 200 | 18 août 2026 | n/a | oui | Basic 0 eur / à vie ; Professional 110 eur / an + TVA ; Business 300 eur / an + TVA |
+| https://e-rechnung-api.fly.dev/ | 200 | 10 octobre 2026 | n/a | oui | H1 « ZUGFeRD & Factur-X API » ; Test 0€, Prepaid 10€ / 100 Dok. |
+| https://e-rechnung-api.fly.dev/validator | 200 | 10 octobre 2026 | n/a | oui | title « Kostenloser ZUGFeRD & XRechnung Validator (EN 16931) » |
 | https://formatx.fr/ | 200 | 18 août 2026 | n/a | oui | schema.org `"price":"0"` EUR |
 | https://formatx.fr/api-docs | 200 | 18 août 2026 | n/a | oui | quotas v2 Free 10 / Pro 100 / Business 500 factures/mois (sans €) |
 | https://facturx-validator.fr/ | 200 | 18 août 2026 | n/a ; « open source » sans lien de dépôt | oui | H1 « Vérifiez vos factures Factur-X gratuitement » ; « Outil gratuit et open source » |

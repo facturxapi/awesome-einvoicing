@@ -60,6 +60,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [B2Brouter — Factur-X validator](https://www.b2brouter.net/fr/factur-x-validator/) — title « Factur-X validator : en ligne, conforme et gratuit » (their title) ; platform [pricing](https://www.b2brouter.net/fr/tarifs/) HTML: Basic `0 eur / à vie` ; Professional `110 eur / an + TVA` ; Business `300 eur / an + TVA`.
 
+- [E-Rechnung API](https://e-rechnung-api.fly.dev/) — H1 « ZUGFeRD & Factur-X API » ; title « ZUGFeRD & Factur-X API | E-Rechnungen leicht gemacht ». Validator [`/validator`](https://e-rechnung-api.fly.dev/validator): title « Kostenloser ZUGFeRD & XRechnung Validator (EN 16931) » ; drag-and-drop validation for PDF/A-3 and XML without registration. Pricing: Test `0€`, Prepaid `10€ / 100 Dok.`, Starter `29€ / Monat`.
+
 - [FactureValide](https://facturevalide.fr/) — H1 « Votre facture valide en 2 minutes. Point. » ; « Gratuit pendant le lancement » ; « Sans limite · Sans carte bancaire ». Validator [`/valider-facture-electronique.html`](https://facturevalide.fr/valider-facture-electronique.html): « 10 vérifications/jour » ; « 31 points de contrôle ». `/tarifs` and `/tarifs.html` = **404**.
 
 - [facturx-validator.fr](https://facturx-validator.fr/) — H1 « Vérifiez vos factures Factur-X gratuitement » ; footer « Outil gratuit et open source. » [`/verifier`](https://facturx-validator.fr/verifier): « Fichier PDF uniquement (max. 10 Mo) » ; profiles Minimum, Basic, EN16931, Extended. Euro price `[non-mesure]`. No repo link on the pages opened (`[non-mesure]` repo).
