@@ -99,6 +99,9 @@ Relevé précédent : 18 août 2026 (voir « Deltas vs 18 août 2026 »).
 | https://www.itb.ec.europa.eu/invoice/upload | 200 | 11 oct. 2026 | n/a (Commission) | oui | H1 « eInvoice Validator » ; options `cii`/`ubl`/`credit` « release 1.3.16 » |
 | https://www.itb.ec.europa.eu/vitb/rest/invoice/api/validate | HEAD **405** / GET **405** | 11 oct. 2026 | n/a | endpoint POST (HEAD/GET refusés) | attendu pour une API REST ; non un 404 |
 | https://kontevia.de/tools/e-rechnung-pruefen | 200 | 12 oct. 2026 | n/a | oui | title « E-Rechnung prüfen: XRechnung, ZUGFeRD Validator \| Kontevia » ; « Kostenlos, ohne Anmeldung » |
+| https://github.com/e-invoice-be/peppol-cli | 200 | 14 oct. 2026 | MIT (API `license.spdx_id`) | oui ; push 2026-10-14 ; stars 3 ; release `v0.0.7` (2026-10-14) ; not archived | description API « CLI for the e-invoice.be Peppol API » ; `internal/cli/validate.go` : `validate ubl` / `validate json` « against Peppol BIS Billing 3.0 » ; `internal/client/client.go` : POST `/api/validate/ubl` et `/api/validate/json` sur `https://api.e-invoice.be`, clé API requise |
+| https://e-invoice.be/peppol-cli | 200 | 14 oct. 2026 | n/a | oui | title « Peppol CLI \| Open-Source E-Invoicing Tool \| e-invoice.be » ; « Requires an e-invoice.be account. » |
+| https://docs.e-invoice.be/cli | 200 | 14 oct. 2026 | n/a | oui | H1 « peppol CLI » ; « The CLI calls the single API host https://api.e-invoice.be » |
 | https://github.com/reviewdog/action-eslint | 200 | 11 oct. 2026 | MIT | oui — push 2026-10-08 ; stars 259 | **exclu README** |
 | https://github.com/aquasecurity/trivy-action | 200 | 11 oct. 2026 | Apache-2.0 | oui — push 2026-10-07 ; stars 1436 | **exclu README** |
 | https://github.com/golangci/golangci-lint-action | 200 | 11 oct. 2026 | MIT | oui — push 2026-10-01 ; stars 1450 | **exclu README** |

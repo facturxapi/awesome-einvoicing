@@ -54,6 +54,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [B2Brouter — Factur-X validator](https://www.b2brouter.net/fr/factur-x-validator/) — title « Factur-X validator : en ligne, conforme et gratuit » (their title) ; platform [pricing](https://www.b2brouter.net/fr/tarifs/) HTML: Basic `0 eur / à vie` ; Professional `110 eur / an + TVA` ; Business `300 eur / an + TVA`.
 
+- [e-invoice-be/peppol-cli](https://github.com/e-invoice-be/peppol-cli) — Go CLI (binary `peppol`) ; API description « CLI for the e-invoice.be Peppol API ». MIT. **`stargazers_count` = 3**. Release `v0.0.7` (2026-10-14). `internal/cli/validate.go`: `validate ubl` and `validate json` « against Peppol BIS Billing 3.0 », sent to `https://api.e-invoice.be` with an API key (not run locally). [Landing page](https://e-invoice.be/peppol-cli): « Requires an e-invoice.be account. » Price `[non-mesure]`.
+
 - [E-Rechnung API](https://e-rechnung-api.fly.dev/) — H1 « ZUGFeRD & Factur-X API » ; title « ZUGFeRD & Factur-X API | E-Rechnungen leicht gemacht ». Validator [`/validator`](https://e-rechnung-api.fly.dev/validator): title « Kostenloser ZUGFeRD & XRechnung Validator (EN 16931) » ; drag-and-drop validation for PDF/A-3 and XML without registration. Pricing: Test `0€`, Prepaid `10€ / 100 Dok.`, Starter `29€ / Monat`.
 
 - [FactureValide](https://facturevalide.fr/) — H1 « Votre facture valide en 2 minutes. Point. » ; « Gratuit pendant le lancement » ; « Sans limite · Sans carte bancaire ». Validator [`/valider-facture-electronique.html`](https://facturevalide.fr/valider-facture-electronique.html): « 10 vérifications/jour » ; « 31 points de contrôle ». `/tarifs` and `/tarifs.html` = **404**.
