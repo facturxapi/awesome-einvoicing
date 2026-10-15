@@ -54,6 +54,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [B2Brouter — Factur-X validator](https://www.b2brouter.net/fr/factur-x-validator/) — title « Factur-X validator : en ligne, conforme et gratuit » (their title) ; platform [pricing](https://www.b2brouter.net/fr/tarifs/) HTML: Basic `0 eur / à vie` ; Professional `110 eur / an + TVA` ; Business `300 eur / an + TVA`.
 
+- [E-Invoice Check](https://einvoicecheck.com/en/validator) — Free, no-account technical validation for supported XRechnung XML (UBL 2.1/CII D16B) against a named, versioned KoSIT-aligned ruleset, with German/English findings; the site does not claim ZUGFeRD-PDF validation. Terms: « The service is free technical validation » ; « free validation phase with no account, no checkout, no payment and no subscription ». Price [non-mesure].
+
 - [E-Rechnung API](https://e-rechnung-api.fly.dev/) — H1 « ZUGFeRD & Factur-X API » ; title « ZUGFeRD & Factur-X API | E-Rechnungen leicht gemacht ». Validator [`/validator`](https://e-rechnung-api.fly.dev/validator): title « Kostenloser ZUGFeRD & XRechnung Validator (EN 16931) » ; drag-and-drop validation for PDF/A-3 and XML without registration. Pricing: Test `0€`, Prepaid `10€ / 100 Dok.`, Starter `29€ / Monat`.
 
 - [FactureValide](https://facturevalide.fr/) — H1 « Votre facture valide en 2 minutes. Point. » ; « Gratuit pendant le lancement » ; « Sans limite · Sans carte bancaire ». Validator [`/valider-facture-electronique.html`](https://facturevalide.fr/valider-facture-electronique.html): « 10 vérifications/jour » ; « 31 points de contrôle ». `/tarifs` and `/tarifs.html` = **404**.
