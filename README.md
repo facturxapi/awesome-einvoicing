@@ -80,7 +80,7 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [Mustangproject — CLI validate](https://www.mustangproject.org/commandline/) — home: « Mustangproject 2.26.0 was released on 25.08.2026 » ; « Support for ZUGFeRD 2.5.2 (=Factur-X 1.09.2, #1216) » (2.25.0 note). CLI page: Validate + `Mustang-CLI-2.26.0.jar`. CLI **not executed** this run (`[non-mesure]` runtime).
 
-- [NYO e-invoice validator](https://nyo-agentti.github.io/) — H1 « Validate an XRechnung / Peppol BIS 3 / EN 16931 e-invoice » ; [pricing](https://nyo-agentti.github.io/pricing.html) states « CII files (Factur-X EN 16931, XRechnung CII): validation report only — the repair engine handles UBL 2.1 ». Pricing: Validator `0 €` ; Pilot `49 € one-off, excl. VAT` ; Repair API `99 € per month, excl. VAT` ; « Card checkout is not open yet. » *(submitted by its operator)*
+- [NYO e-invoice validator](https://nyo-agentti.github.io/) — H1 « Validate an XRechnung / Peppol BIS 3 / EN 16931 e-invoice » ; [pricing](https://nyo-agentti.github.io/pricing.html) states « UBL 2.1 and UN/CEFACT CII (Factur-X / ZUGFeRD EN 16931 XML, XRechnung CII) are repaired and returned in the same syntax; for Factur-X PDFs send the embedded XML (re-embedding into the PDF is not included) ». Pricing: Validator `0 €` ; Pilot `49 € one-off, excl. VAT` ; Repair API `99 € per month, excl. VAT` ; « Card checkout is open for the Pilot. » *(submitted by its operator)*
 
 - [phax/phive](https://github.com/phax/phive) — Java validation engine ; API description « Generic business document validation engine » ; README: rules are in a separate repository. Apache-2.0. **`stargazers_count` = 77**. Last push 2026-10-08 ; release `v12.2.0` (2026-09-28).
 
