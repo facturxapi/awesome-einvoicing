@@ -67,6 +67,7 @@ Relevé partiel **2026-10-18** (`2026-10-18T11:01:53Z`, lignes `facturxapi` à `
 | https://facturx-validator.fr/verifier | 200 | 11 oct. 2026 | n/a | oui | « Fichier PDF uniquement (max. 10 Mo) » ; profils Minimum, Basic, EN16931, Extended |
 | https://invoicein.peculiar.systems/ | 200 | 11 oct. 2026 | service : non publiée ; exemples MIT (github.com/peculiar-systems/invoicein-examples) | oui — page « Beta pricing » | « Every e-invoice you receive, as one JSON. » ; Free €0 100 invoices ; Starter €29 ; Growth €99 ; Scale €399 |
 | https://invoicein-api.peculiar.systems/docs | HEAD **405** / GET **200** | 11 oct. 2026 | n/a | oui | référence API (lien README) |
+| https://valinvo.bmk-hub.com/ | 200 | 29 oct. 2026 | n/a (service web) | oui | H1 « XRechnung and Peppol e-invoices from one JSON call » ; « The online validator on this page is free and needs no account or API key. » ; Free « 2 invoices / day to try the API, no key needed » ; Starter « €29 / month » ; entrée proposée par son opérateur (#31) |
 | https://www.mustangproject.org/ | 200 | 11 oct. 2026 | Apache-2.0 (dépôt) | oui — 25.08.2026 | « Mustangproject 2.26.0 was released on 25.08.2026 » ; support ZUGFeRD 2.5.2 (note 2.25.0) |
 | https://www.mustangproject.org/commandline/ | 200 | 11 oct. 2026 | — | oui | section Validate ; `Mustang-CLI-2.26.0.jar` |
 | https://www.mustangproject.org/use/ | 200 | 11 oct. 2026 | — | oui | HEAD 200 |

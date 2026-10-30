@@ -98,6 +98,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [thelawin.dev](https://thelawin.dev/) — H1 « The E-Invoicing Engine » ; site labels « Factur-X 1.0.8 », « ZUGFeRD 2.4 » (FNFE/FeRD pack this day = 1.09.2 / 2.5.2). [Pricing](https://thelawin.dev/pricing): Sandbox `€0`, Starter `€9.50 /month`, Pro `€24.50 /month`, « Beta pricing: 50% off all paid plans ».
 
+- [Valinvo](https://valinvo.bmk-hub.com/) — H1 « XRechnung and Peppol e-invoices from one JSON call » ; FAQ: « The online validator on this page is free and needs no account or API key. Your file is processed in memory and not stored. » and « ZUGFeRD / Factur-X is coming ». Page badge « Beta · XRechnung 3.0.2 · Peppol BIS 3.0.21 ». Pricing on page: Free `€0 / month` (« 2 invoices / day to try the API, no key needed ») ; Starter `€29 / month` (« 1,000 documents / month ») ; Growth `€99 / month` (« 10,000 documents / month ») ; Business `€299 / month` (« 50,000 documents / month ») ; « For business customers only. Prices in EUR, excluding VAT. » Paid plans are not open yet: « Paid plans open after the beta — write to us for early access. » Submitted by the operator.
+
 - [xmlvalid](https://xmlvalid.com/schematron-validator) — H1 « Schematron validator for e-invoices » ; « EN 16931 1.3.17 […] on the EN 16931 profiles », « Peppol, XRechnung and the French profiles run 1.3.16 » ; « Nothing is uploaded ». [Pricing](https://xmlvalid.com/pricing): Free `$0 forever`, Pro `$290 per year`.
 
 ## GitHub Actions
