@@ -104,6 +104,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [xmlvalid](https://xmlvalid.com/schematron-validator) — H1 « Schematron validator for e-invoices » ; « EN 16931 1.3.17 […] on the EN 16931 profiles », « Peppol, XRechnung and the French profiles run 1.3.16 » ; « Nothing is uploaded ». [Pricing](https://xmlvalid.com/pricing): Free `$0 forever`, Pro `$290 per year`.
 
+- [XRechnungsportal](https://xrechnungsportal.halloneuna.at/) — H1 « XRechnung erstellen – direkt im Browser » ; meta description « XRechnung 3.0 als UBL oder CII direkt im Browser erstellen. Mit Prüfung der Pflichtangaben, IBAN- und UID-Check. » Pricing: free base ; optional supporter plans « 9 € / Monat », « 29 € / Monat » with « keine Zusatzfunktionen ». Creator, not a KoSIT validator. *(submitted by the operator)*
+
 ## GitHub Actions
 
 Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`factur-x`](https://github.com/marketplace?type=actions&query=factur-x) → « 5 results »: `validate-en16931-e-invoice`, `validate-e-invoice-en-16931`, `prufix`, `beliq-e-invoice-validate`, `invowerk-api`. [`zugferd`](https://github.com/marketplace?type=actions&query=zugferd) → « 3 results »: `validate-en16931-e-invoice`, `beliq-e-invoice-validate`, `invowerk-api`. [`en16931`](https://github.com/marketplace?type=actions&query=en16931) → « 1 result »: `validate-en16931-e-invoice`. Search results are listed here, not added as entries.

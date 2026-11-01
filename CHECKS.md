@@ -50,6 +50,7 @@ Relevé partiel **2026-10-18** (`2026-10-18T11:01:53Z`, lignes `facturxapi` à `
 | https://thelawin.dev/fr/factur-x-validator | 200 | 11 oct. 2026 | n/a | oui | H1 « Factur-X Validator » |
 | https://xmlvalid.com/schematron-validator | 200 | 21 oct. 2026 | n/a | oui | H1 « Schematron validator for e-invoices » ; « EN 16931 1.3.17 » ; « Nothing is uploaded » ; entrée proposée par son auteur (#20) |
 | https://xmlvalid.com/pricing | 200 | 21 oct. 2026 | n/a | oui | Free « $0 forever » ; Pro « $290 per year » |
+| https://xrechnungsportal.halloneuna.at/ | 200 | 1 nov. 2026 | n/a (closed source) | n/a | H1 « XRechnung erstellen – direkt im Browser » ; « 9 € / Monat », « 29 € / Monat » ; « keine Zusatzfunktionen » ; entrée proposée par son opérateur |
 | https://annehmbar.com/ | 200 | 24 oct. 2026 | n/a | oui — config v2026-08-31 | H1 « XRechnung und ZUGFeRD prüfen: Wird Ihre Rechnung angenommen? » ; marque « Annehmbar » ; « Regeländerungs-Alarm 0 € bis 31.12.2026, danach 19 € / Monat » ; `/api/rules` → `"config": "v2026-08-31"` ; ancienne adresse `xrechnung.jestr.ai` → 301 ; entrée proposée par son opérateur (#7) |
 | https://www.b2brouter.net/fr/factur-x-validator/ | 200 | 11 oct. 2026 | n/a | oui | title « […] conforme et gratuit » (leur title) |
 | https://www.b2brouter.net/fr/tarifs/ | 200 | 11 oct. 2026 | n/a | oui | Basic 0 eur / à vie ; Professional 110 eur / an + TVA ; Business 300 eur / an + TVA |
