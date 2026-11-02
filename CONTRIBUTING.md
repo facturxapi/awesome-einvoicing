@@ -21,6 +21,16 @@ If you maintain a listed project, the line must match the format and length of t
 
 The same rule applies to the list maintainer's own projects: they sit at their alphabetical place, never first, and are marked *(list maintainer's project)*. The maintainer's commercial product is not listed.
 
+## Operator submissions
+
+If you run or sell the tool you are adding:
+
+1. Say so in the PR description. The entry ends with `Submitted by the operator.`
+2. The site must have a legal notice or Impressum that names an identifiable operator (company or person name, and address). Maintainers check it before merging.
+3. If you quote a price, also quote what the page shows with it: quotas, a beta label, a waiting list or “paid plans not open yet”, and any restriction on who can buy (for example business customers only).
+4. One entry per operator. For another product from the same operator, update the existing entry instead of adding a new one.
+5. Maintainers may edit the entry to add these details before merging.
+
 ## What we will not list
 
 - Generic linters / scanners that are not e-invoicing tools
