@@ -50,7 +50,7 @@ HTTP / licenses / liveness: [`CHECKS.md`](CHECKS.md). Redistribute vs pointer: [
 
 ## Validators
 
-Tools that present themselves as a validator, converter or API. **Not a ranking.**
+Tools that present themselves as a validator, converter, generator or API. **Not a ranking.**
 
 - [Annehmbar](https://annehmbar.com/) — H1 « XRechnung und ZUGFeRD prüfen: Wird Ihre Rechnung angenommen? » ; « KoSIT-Konfiguration v2026-08-31 und ZUGFeRD 2.5.2 » ; REST `POST /api/validate` (CII/UBL XML, `X-Api-Key`) ; public update log [`/log`](https://annehmbar.com/log) + Atom feed. Page: « Regeländerungs-Alarm 0 € bis 31.12.2026, danach 19 € / Monat ». Submitted by the operator.
 
@@ -104,7 +104,7 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [xmlvalid](https://xmlvalid.com/schematron-validator) — H1 « Schematron validator for e-invoices » ; « EN 16931 1.3.17 […] on the EN 16931 profiles », « Peppol, XRechnung and the French profiles run 1.3.16 » ; « Nothing is uploaded ». [Pricing](https://xmlvalid.com/pricing): Free `$0 forever`, Pro `$290 per year`.
 
-- [XRechnungsportal](https://xrechnungsportal.halloneuna.at/) — H1 « XRechnung erstellen – direkt im Browser » ; meta description « XRechnung 3.0 als UBL oder CII direkt im Browser erstellen. Mit Prüfung der Pflichtangaben, IBAN- und UID-Check. » Pricing: free base ; optional supporter plans « 9 € / Monat », « 29 € / Monat » with « keine Zusatzfunktionen ». Creator, not a KoSIT validator. *(submitted by the operator)*
+- [XRechnungsportal](https://xrechnungsportal.halloneuna.at/) — H1 « XRechnung erstellen – direkt im Browser » ; meta description « XRechnung 3.0 als UBL oder CII direkt im Browser erstellen. Mit Prüfung der Pflichtangaben, IBAN- und UID-Check. » Site badge « XRechnung 3.0 · EN 16931 · KoSIT-geprüft » ; page states « Die erzeugten Dateien wurden mit dem KoSIT-Prüfwerkzeug (Validator) für XRechnung 3.0.2 getestet. » Pricing: « Basis 0 € », « Das Basis-Werkzeug bleibt gratis – ohne Konto, ohne Limit » ; optional supporter plans « XRechnung Plus » `5 € / Monat`, « E-Rechnung Start » `9 € / Monat`, « E-Rechnung Pro » `29 € / Monat` ; « Alle Stufen: monatlich kündbar, keine Zusatzfunktionen ». Creator, not a KoSIT validator. Submitted by the operator.
 
 ## GitHub Actions
 
