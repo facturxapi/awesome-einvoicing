@@ -17,6 +17,7 @@ HTTP / licenses / liveness: [`CHECKS.md`](CHECKS.md). Redistribute vs pointer: [
 - [Validators](#validators)
 - [GitHub Actions](#github-actions)
 - [Libraries](#libraries)
+- [Visualization](#visualization)
 - [Corpora](#corpora)
 - [Related lists](#related-lists)
 
@@ -144,11 +145,17 @@ Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`
 
 - [phax/ph-ubl](https://github.com/phax/ph-ubl) — API description « Java library for reading and writing UBL 2.0, 2.1, 2.2, 2.3, 2.4 and 2.5 documents ». Apache-2.0. **`stargazers_count` = 141**. Last push 2026-10-17 ; release `v10.2.1` (2026-08-27).
 
+- [phax/zugferd-to-peppol-bis](https://github.com/phax/zugferd-to-peppol-bis) — API description « Convert a valid ZUGFeRD invoice to a valid Peppol BIS Billing invoice » ; README: uses kaltblut, en16931-cii2ubl and phive-rules-peppol, embeds the original PDF in the UBL ; « The converter does not make up values ». Apache-2.0. **`stargazers_count` = 1**. Created 2026-11-04 ; release `v1.0.0` (2026-11-04).
+
 - [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) — API description « Pure-python ZUGFeRD implementation ». Apache-2.0. **`stargazers_count` = 179**. Last push 2026-06-02. **No GitHub release**.
 
 - [stephanstapel/ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) — C# ZUGFeRD read / write. Apache-2.0 (`LICENSE.txt`). **`stargazers_count` = 395**. Last push / release `18.0.1` (2026-10-09). README: « My maintenance of this project will end on November 30, 2026. » ; names FactoorSharp as « the commercial successor ».
 
 - [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / CLI to read, write, convert and validate Factur-X/ZUGFeRD and XRechnung. Apache-2.0. **`stargazers_count` = 480**. Last push 2026-10-10 ; release `core-2.26.0` (2026-08-25).
+
+## Visualization
+
+- [phax/phlox](https://github.com/phax/phlox) — API description « EN 16931 eInvoicing Visualization in HTML and PDF » ; README: reads UBL 2.1 / 2.5 and CII D16B / D25A, renders to HTML, PDF (optionally PDF/A, PDF/UA or ZUGFeRD / Factur-X) or plain text ; « No validation: phlox only visualizes. » Apache-2.0. **`stargazers_count` = 7**. Last push 2026-11-04 ; release `v0.6.1` (2026-11-04).
 
 ## Corpora
 
