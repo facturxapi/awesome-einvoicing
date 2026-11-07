@@ -93,6 +93,8 @@ Relevé partiel **2026-10-18** (`2026-10-18T11:01:53Z`, lignes `facturxapi` à `
 | https://github.com/phax/ph-cii | 200 | 18 oct. 2026 | Apache-2.0 | oui — push 2026-10-08 ; stars 15 ; release `v4.1.3` (2026-09-22) | D16A.1, D16B, D22B, D25A |
 | https://github.com/phax/ph-redact | 200 | 18 oct. 2026 | Apache-2.0 | oui — push 2026-10-09 ; stars 3 ; release `v1.1.0` (2026-09-08) | description API « Simple eInvoice Anonymizer » ; anonymiseur XSLT UBL / CII |
 | https://github.com/phax/ph-ubl | 200 | 18 oct. 2026 | Apache-2.0 | oui — push 2026-10-17 ; stars 141 ; release `v10.2.1` (2026-08-27) | UBL 2.0 à 2.5 |
+| https://github.com/phax/phlox | 200 | 5 nov. 2026 | Apache-2.0 | oui — push 2026-11-04 ; stars 7 ; release `v0.6.1` (2026-11-04) ; not archived | description API « EN 16931 eInvoicing Visualization in HTML and PDF » ; README « No validation: phlox only visualizes. » ; entrée proposée par son auteur (#35) |
+| https://github.com/phax/zugferd-to-peppol-bis | 200 | 5 nov. 2026 | Apache-2.0 | oui — dépôt créé le 2026-11-04 ; push 2026-11-04 ; stars 1 ; release `v1.0.0` (2026-11-04) ; not archived | description API « Convert a valid ZUGFeRD invoice to a valid Peppol BIS Billing invoice » ; ZUGFeRD / Factur-X → Peppol BIS Billing 3 UBL ; entrée proposée par son auteur (#35) |
 | https://github.com/hernaninverso/validate-einvoice-action | 301 → 200 | 11 oct. 2026 | Apache-2.0 | oui — push 2026-05-25 ; stars 0 ; release `v1` (2026-05-25) | redirige vers `eleata/validate-einvoice-action` (API `full_name`) ; description API « backed by eleata.io » ; `action.yml` default `api-base` `https://api.eleata.io` |
 | https://github.com/invoicenavigator/validate-invoice | 200 | 11 oct. 2026 | MIT | oui — push 2026-03-02 ; stars 0 | **pas de release** (`releases/latest` 404) |
 | https://github.com/wsystemdev/einvoice-validate-action | 200 | 28 oct. 2026 | MIT | oui — dépôt créé le 2026-10-26 (`created_at` 2026-10-26T10:50:52Z), push 2026-10-26 ; stars 0 ; release `v1.0.0` (2026-10-26) | description API « validate UBL, CII and ZUGFeRD/Factur-X e-invoices against EN 16931 and XRechnung rules in CI » ; `action.yml` default `api-url` `https://api.wsystem.dev` ; `api-key` « free key: 500 units a month, no card » ; « Without one, each runner IP gets 20 free calls a day. » ; entrée proposée par son éditeur (#26) |
@@ -250,7 +252,7 @@ Aucun dépôt de la liste principale n’est `archived`.
 | SPDX / constat | Entrées |
 |---|---|
 | EUPL 1.2 (fichier ; API NOASSERTION) | ConnectingEurope/eInvoicing-EN16931 ; facturxapi/validate-einvoice (NOTICE) |
-| Apache-2.0 | France_RFE, mustangproject, phax/phive, phax/phorm, phax/kaltblut, phax/en16931-cii2ubl, phax/en16931-purifier, phax/en16931-ubl2cii, phax/ph-cii, phax/ph-redact, phax/ph-ubl, python-drafthorse, ZUGFeRD-csharp, xrechnung-testsuite, eleata (ex-hernaninverso), trivy-action |
+| Apache-2.0 | France_RFE, mustangproject, phax/phive, phax/phorm, phax/kaltblut, phax/en16931-cii2ubl, phax/en16931-purifier, phax/en16931-ubl2cii, phax/ph-cii, phax/ph-redact, phax/ph-ubl, phax/phlox, phax/zugferd-to-peppol-bis, python-drafthorse, ZUGFeRD-csharp, xrechnung-testsuite, eleata (ex-hernaninverso), trivy-action |
 | MIT | horstoeko/zugferd, invoicenavigator, wsystemdev/einvoice-validate-action, attestwire (Action + en16931), reviewdog/action-eslint, golangci-lint-action |
 | CC0-1.0 | sdras/awesome-actions, morganrcu/awesome-europe ; **texte de cette liste** |
 | CC0 1.0 (fichier ; API NOASSERTION) | causa-prima-ai/awesome-invoicing |
