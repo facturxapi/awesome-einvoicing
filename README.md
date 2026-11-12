@@ -49,6 +49,8 @@ HTTP / licenses / liveness: [`CHECKS.md`](CHECKS.md). Redistribute vs pointer: [
 
 - [FNFE-MPE — Ressources](https://fnfe-mpe.org/ressources/) — « 30 juin 2026 : Publication des nouvelles versions des normes XP Z12 -012, 013, 014 » ; « XP Z12-012 (30/06/2026) 1.4.0 » ; « Version 1.4.0 des schematrons » (fix04 du 4 septembre), file `2026_09_04_FNFE_SCHEMATRONS_FR_CTC_V1.4.0.04.zip`.
 
+- [XStandards Einkauf — XRechnung](https://xeinkauf.de/xrechnung/) — official KoSIT page for XRechnung ; « Der Standard XRechnung wird von der KoSIT im Auftrag des IT-Planungsrats betrieben » ; « Spezifikation XRechnung Version 3.0.2 » ; « XRechnung 3.0 wird daher bis mindestens 31.07.2027 in Kraft bleiben » ; « Im September 2026 wurde die Vorversion der Spezifikation XRechnung 4.0 veröffentlicht. »
+
 ## Validators
 
 Tools that present themselves as a validator, converter, generator or API. **Not a ranking.**
