@@ -151,6 +151,8 @@ Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`
 
 - [pretix/python-drafthorse](https://github.com/pretix/python-drafthorse) — API description « Pure-python ZUGFeRD implementation ». Apache-2.0. **`stargazers_count` = 179**. Last push 2026-06-02. **No GitHub release**.
 
+- [Quittio/quittio](https://github.com/Quittio/quittio) — PHP (Laravel optional) ; API description « E-invoicing for PHP and Laravel (E-Rechnung): create, validate and read ZUGFeRD/Factur-X, XRechnung, UBL and Peppol BIS invoices based on EN 16931. Open source, MIT. » API `license.spdx_id` = **`NOASSERTION`** ; `LICENSE` = MIT. **`stargazers_count` = 41**. Last push 2026-11-12 ; release `v1.0.0` (2026-10-27).
+
 - [stephanstapel/ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) — C# ZUGFeRD read / write. Apache-2.0 (`LICENSE.txt`). **`stargazers_count` = 395**. Last push / release `18.0.1` (2026-10-09). README: « My maintenance of this project will end on November 30, 2026. » ; names FactoorSharp as « the commercial successor ».
 
 - [ZUGFeRD/mustangproject](https://github.com/ZUGFeRD/mustangproject) — Java library / CLI to read, write, convert and validate Factur-X/ZUGFeRD and XRechnung. Apache-2.0. **`stargazers_count` = 480**. Last push 2026-10-10 ; release `core-2.26.0` (2026-08-25).
