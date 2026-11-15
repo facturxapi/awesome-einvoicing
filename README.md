@@ -121,6 +121,8 @@ Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`
 
 - [invoicenavigator/validate-invoice](https://github.com/invoicenavigator/validate-invoice) — Action `node20` ; API description « GitHub Action to validate EU e-invoices against EN 16931, Peppol, XRechnung, and ZUGFeRD ». MIT. **`stargazers_count` = 0**. Last push 2026-03-02. **No release**. **Not a Marketplace card.**
 
+- [kalmwerk/peppol-ubl-check](https://github.com/kalmwerk/peppol-ubl-check) — created 2026-11-12 ; API description « Check UBL and Peppol BIS Billing 3.0 e-invoices offline in GitHub Actions: 214 EN 16931, Peppol, XRechnung and Dutch SI-UBL rules, with a fix for each error. By InvoiceVerify. » ; `action.yml` name `Peppol UBL check by InvoiceVerify`. MIT. **`stargazers_count` = 0**. Release `v1.2.0` (2026-11-14). **Not a Marketplace card.** Claims: theirs, not restated. Submitted by the operator.
+
 - [wsystemdev/einvoice-validate-action](https://github.com/wsystemdev/einvoice-validate-action) — created 2026-10-26 ; API description « GitHub Action: validate UBL, CII and ZUGFeRD/Factur-X e-invoices against EN 16931 and XRechnung rules in CI » ; composite Action ; `action.yml` name `EU e-invoice validator (EN 16931, XRechnung)` ; default `api-url` `https://api.wsystem.dev` (files are sent to that API) ; `api-key` input: « free key: 500 units a month, no card » ; « Without one, each runner IP gets 20 free calls a day. » MIT. **`stargazers_count` = 0**. Release `v1.0.0` (2026-10-26). **Not a Marketplace card.** Claims: theirs, not restated.
 
 ## Libraries
