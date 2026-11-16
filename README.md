@@ -121,7 +121,7 @@ Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`
 
 - [eleata/validate-einvoice-action](https://github.com/eleata/validate-einvoice-action) — formerly `hernaninverso/validate-einvoice-action` (old URL redirects) ; API description « Validate EU e-invoices (Peppol BIS, EN 16931, XRechnung, Factur-X, UBL, CII) in CI — backed by eleata.io, with plain-English fix hints per error. » Composite Action ; `action.yml` name `Validate EU e-Invoice` ; `format` includes `factur-x` ; default `api-base` `https://api.eleata.io`. Apache-2.0. **`stargazers_count` = 0**. Last push 2026-05-25. Claims: theirs, not restated.
 
-- [facturxapi/validate-einvoice](https://github.com/facturxapi/validate-einvoice) — API description « GitHub Action that runs the official ConnectingEurope EN16931 XSLT artefacts (CII/UBL): 1.3.16 by default, 1.3.17 opt-in. » EUPL 1.2 (API `NOASSERTION`). **`stargazers_count` = 4**. Release `v1.2.0` (2026-10-18). *(list maintainer's project)*
+- [facturxapi/validate-einvoice](https://github.com/facturxapi/validate-einvoice) — API description « GitHub Action that runs the official ConnectingEurope EN 16931 XSLT artefacts (CII/UBL): 1.3.17 by default, 1.3.16 opt-in. » EUPL 1.2 (API `NOASSERTION`). **`stargazers_count` = 4**. Release `v1.3.0` (2026-11-16). *(list maintainer's project)*
 
 - [invoicenavigator/validate-invoice](https://github.com/invoicenavigator/validate-invoice) — Action `node20` ; API description « GitHub Action to validate EU e-invoices against EN 16931, Peppol, XRechnung, and ZUGFeRD ». MIT. **`stargazers_count` = 0**. Last push 2026-03-02. **No release**. **Not a Marketplace card.**
 
@@ -173,7 +173,7 @@ Only publicly licensed, still-living example sets. FNFE ZIP (email gate) and FeR
 
 - [ConnectingEurope — EN 16931 v1.3.17 examples](https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/tag/validation-1.3.17) — release « EN16931 Validation artefacts v1.3.17 » ; body: examples in folder `"examples"` ; EUPL 1.2 ; assets `en16931-cii-1.3.17.zip`, `en16931-ubl-1.3.17.zip`.
 
-- [facturxapi/en16931-oracles](https://github.com/facturxapi/en16931-oracles) — API description « Reproducible EN16931 validation oracles — ConnectingEurope 1.3.17 fixtures, SVRL receipts, and mutants. » API `NOASSERTION`. **`stargazers_count` = 4**. Release `v1.1.0` « v1.1.0 — BR-FR Flux2 oracles (France_RFE v1.4.0.x) » (2026-08-21). *(list maintainer's project)*
+- [facturxapi/en16931-oracles](https://github.com/facturxapi/en16931-oracles) — API description « Reproducible EN 16931 validation oracles — ConnectingEurope 1.3.17 fixtures, SVRL receipts, and mutants. » EUPL 1.2 (API `EUPL-1.2`). **`stargazers_count` = 5**. Release `v1.1.0` « v1.1.0 — BR-FR Flux2 oracles (France_RFE v1.4.0.x) » (2026-08-21). *(list maintainer's project)*
 
 - [itplr-kosit/xrechnung-testsuite](https://github.com/itplr-kosit/xrechnung-testsuite) — GitHub mirror of KoSIT ([GitLab](https://projekte.kosit.org/xrechnung/xrechnung-testsuite) HTTP 200). Apache-2.0. Last push 2026-09-08. Release `v2026-08-31` « Testsuite release in version 2026-08-31 compatible with XRechnung 3.0 » (2026-09-02): asset `xrechnung-3.0.2-testsuite-2026-08-31.zip`.
 
