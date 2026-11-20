@@ -163,7 +163,7 @@ Marketplace search on 2026-10-11, results in the order GitHub displayed them: [`
 
 ## Visualization
 
-- [Factur-X Viewer](https://facturxviewer.fr/en) : title « Factur-X Viewer: free e-invoice viewer for ZUGFeRD, Factur-X and XRechnung » ; H1 « Read your e-invoices in one click » ; Chrome extension plus web reader [`/en/reader`](https://facturxviewer.fr/en/reader) ; page states « 100% local: your invoices never leave your computer ». Pricing on the page: Free `0 €` ; Pro « 49 € one-time payment » (several invoices at once, CSV exports). Submitted by the operator.
+- [Factur-X Viewer](https://facturxviewer.fr/en) — title « Factur-X Viewer: free e-invoice viewer for ZUGFeRD, Factur-X and XRechnung » ; H1 « Read your e-invoices in one click » ; Chrome extension plus web reader [`/en/reader`](https://facturxviewer.fr/en/reader) ; page states « 100% local: your invoices never leave your computer ». Pricing on the page: Free `0 €` ; Pro « 49 € one-time payment » (several invoices at once, CSV exports). Submitted by the operator.
 
 - [itplr-kosit/xrechnung-visualization](https://github.com/itplr-kosit/xrechnung-visualization) — GitHub mirror of KoSIT ([GitLab](https://projekte.kosit.org/xrechnung/xrechnung-visualization) HTTP 200). API description « XSL transformators for web and pdf rendering of German CIUS XRechnung or EN16931-1:2017 [MIRROR OF GitLab] » ; README: UBL Invoice / CreditNote or CII (XRechnung or EN 16931) rendered to HTML or PDF through XSL ; « Visualizations generated from an XRechnung are NOT valid instances of XRechnung. » Apache-2.0. **`stargazers_count` = 134** (2026-11-07). Last push 2026-10-13 ; release `v2026-10-13` « XRechnung Visualization 2026-10-13 compatible with XRechnung 3.0 » (2026-10-13).
 
